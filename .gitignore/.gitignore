@@ -1,0 +1,48 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://goo.gl/vrZ3mg"
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg" group-title="Filmes e Series",[COLOR yellow]            > > > FILMES E SERIES< < <[/COLOR]
+http://62.210.83.154:8081/twd/twd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg" group-title="Filmes e Series",[COLOR yellow]            > > > FILMES E SERIES< < <[/COLOR]
+http://185.181.102.2:8081/live/maxhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg" group-title="Filmes e Series",[COLOR yellow]            > > > FILMES E SERIES< < <[/COLOR]
+http://185.181.100.218:8081/live/master17/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg" group-title="Filmes e Series",[COLOR yellow]            > > > FILMES E SERIES< < <[/COLOR]
+http://185.181.102.3:8081/live/53/playlist.m3u8  
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg" group-title="Filmes e Series",[COLOR yellow]            > > > FILMES E SERIES< < <[/COLOR]
+http://185.181.102.3:8081/live/hbo2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg" group-title="Filmes e Series",[COLOR yellow]            > > > FILMES E SERIES< < <[/COLOR]
+http://185.181.102.2:8081/live/sony/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg" group-title="Filmes e Series",[COLOR yellow]            > > > FILMES E SERIES< < <[/COLOR]
+http://185.181.102.2:8081/live/fox/chunks.m3u8 
+
+#EXTINF:-1 tvg-id="Fox.igor" tvg-logo="TNT.png" tvg-logo="http://goo.gl/vUl6oy" group-title="Filmes e Series",TNT [COLOR gray] RedeCanais[/COLOR]
+http://tv.ec.cx:1935/redecanais-stream-tnt/myStream/chunklist_w266468862.m3u8
+
+#EXTINF:-1 tvg-id="Fox.igor" tvg-logo="Universal-Channel.png" tvg-logo="http://goo.gl/K8V00r" group-title="Filmes e Series",UNIVERSAL CHANNEL
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/chunklist_w1723183502.m3u8
+
+#EXTINF:-1 tvg-id="Fox.igor" tvg-logo="FOX1.png" tvg-logo="http://goo.gl/13gfQq" group-title="Filmes e Series",FOX [COLOR gray] RedeCanais[/COLOR]
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox.igor" tvg-logo="FOX1.png" tvg-logo="http://goo.gl/13gfQq" group-title="Filmes e Series",FOX [COLOR gray] Vertv.net[/COLOR]
+http://217.23.2.169:8081/look/foxhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Pipoca.igor" tvg-logo="Telecine-Pipoca.png" tvg-logo="http://goo.gl/5IKysn" group-title="Filmes e Series",TELECINE PIPOCA [COLOR gray] Vertv.net[/COLOR]
+http://5.79.68.138:8081/look/tcpipoca/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Pipoca.igor" tvg-logo="Megapix.png" tvg-logo="http://goo.gl/qXR9CS" group-title="Filmes e Series",TELECINE PIPOCA [COLOR gray] Vertv.net[/COLOR]
+http://5.79.68.138:8081/look/megapix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="cine.png" tvg-logo="http://goo.gl/qY6uab" group-title="Filmes e Series",CINE SKY
+rtmp://208.53.164.194/ctv playpath=filmes  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/filmes.php
+
+
